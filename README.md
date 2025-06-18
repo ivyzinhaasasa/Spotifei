@@ -5,7 +5,7 @@ Aplicativo de terminal para gerenciamento de músicas no estilo Spotify, feito e
 
 - Cadastro e login de usuários
 - Busca de músicas por nome
-- Curtir e 💔 descurtir músicas
+- Curtir e descurtir músicas
 - Criação e edição de playlists personalizadas
 - Exclusão de playlists
 - Visualização de playlists e histórico de curtidas/descurtidas
